@@ -1,8 +1,4 @@
-Here’s a polished **GitHub README.md** draft for your *College Database Project Report*. I’ve included all the headings and placeholders for screenshots so that it looks professional and recruiter‑friendly. You can copy this into your repository and replace the `![Screenshot](path)` with your actual images.
 
----
-
-```markdown
 # 📊 College Database Project – SQL Query Demonstration
 
 ## 📌 Project Overview
@@ -26,6 +22,8 @@ It covers:
 - Handle NULL values effectively.
 - Demonstrate comparison operators (>, <>, NOT IN).
 
+
+
 ---
 
 ## 🛠 Tools Used
@@ -34,6 +32,8 @@ It covers:
   - Students (student details: name, age, city, status)  
   - Courses (course name, credits)  
   - Enrollment (student-course mapping with enrollment date)
+
+
 
 ---
 
@@ -45,9 +45,7 @@ SELECT * FROM Students;
 SELECT * FROM Courses;
 SELECT * FROM Enrollment;
 ```
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`  
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`  
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`  
+`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
 
 ---
 
@@ -63,7 +61,7 @@ SELECT DISTINCT city FROM Students;
 ```sql
 SELECT name AS student_name, age, city AS location FROM Students;
 ```
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+
 
 ---
 
@@ -72,8 +70,7 @@ SELECT name AS student_name, age, city AS location FROM Students;
 SELECT * FROM Students WHERE city = 'Chennai';
 SELECT * FROM Students WHERE age > 22;
 ```
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`  
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+
 
 ---
 
@@ -82,7 +79,6 @@ SELECT * FROM Students WHERE age > 22;
 SELECT name, age, age + 5 AS age_after_5yrs FROM Students;
 SELECT Credits * 2 AS DoubledCredits, CourseName FROM Courses;
 ```
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`  
 `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
 
 ---
@@ -118,7 +114,6 @@ SELECT * FROM Students WHERE status IS NOT NULL;
 SELECT * FROM Students WHERE city IN ('Delhi', 'Chennai');
 SELECT * FROM Students WHERE city NOT IN ('Delhi');
 ```
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`  
 `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
 
 ---
@@ -128,7 +123,6 @@ SELECT * FROM Students WHERE city NOT IN ('Delhi');
 SELECT * FROM Students WHERE age BETWEEN 20 AND 24;
 SELECT * FROM Enrollment WHERE enrollmentdate BETWEEN '2024-01-15' AND '2024-02-29';
 ```
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`  
 `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
 
 ---
@@ -151,11 +145,25 @@ This project demonstrates:
 
 👉 It highlights **practical SQL skills** for managing student and course information in a relational database.
 
+`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+
 ---
 
 ## 📸 Screenshots
 All screenshots are stored in the `screenshots/` folder for easy reference.  
-Example: `screenshots/students_table.png`
+Example:  
+- `screenshots/basic_retrieval.png`  
+- `screenshots/distinct_values.png`  
+- `screenshots/aliases.png`  
+- `screenshots/filtering.png`  
+- `screenshots/arithmetic_operations.png`  
+- `screenshots/comparison_operators.png`  
+- `screenshots/logical_conditions.png`  
+- `screenshots/null_handling.png`  
+- `screenshots/in_not_in.png`  
+- `screenshots/between.png`  
+- `screenshots/like_operator.png`  
+- `screenshots/conclusion.png`
 
 ---
 
@@ -165,6 +173,4 @@ Created by **Saranya**
 🔗 LinkedIn: [your-linkedin-profile]  
 ```
 
----
-
-Would you like me to also add **badges/icons** (for MySQL, SQL, GitHub) at the top of the README to make it visually appealing for recruiters?# College_DB-Query-Demonstration
+---ckly navigate between sections?
