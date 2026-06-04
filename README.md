@@ -172,5 +172,3 @@ Created by **Saranya**
 📩 Email: [your-email@example.com]  
 🔗 LinkedIn: [your-linkedin-profile]  
 ```
-
----ckly navigate between sections?
