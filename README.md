@@ -139,8 +139,7 @@ This project demonstrates:
 - Core SQL operations for data retrieval and filtering
 - Use of operators (DISTINCT, ALIAS, WHERE, IN, BETWEEN, LIKE)
 - Arithmetic and comparison logic in queries
-- Handling NULL values for data quality checks
-ll screenshots are stored in the `screenshots/` folder for easy reference.  
+- Handling NULL values for data quality checks.  
 Example:  
 - `screenshots/basic_retrieval.png`  
 - `screenshots/distinct_values.png`  
