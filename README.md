@@ -126,6 +126,7 @@ SELECT * FROM Students WHERE status IS NULL;
 ```
 SELECT * FROM Students WHERE status IS NOT NULL;
 ```
+<img width="673" height="565" alt="Screenshot 2026-06-04 222642" src="https://github.com/user-attachments/assets/43561410-0684-42c9-b7b8-0aeb8ea8038c" />
 
 
 ---
