@@ -45,7 +45,7 @@ SELECT * FROM Students;
 SELECT * FROM Courses;
 SELECT * FROM Enrollment;
 ```
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+
 
 ---
 
