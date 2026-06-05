@@ -97,6 +97,10 @@ SELECT Credits * 2 AS DoubledCredits, CourseName FROM Courses;
 ### 6. Comparison Operators
 ```sql
 SELECT CourseName, Credits FROM Courses WHERE Credits > 2;
+```
+<img width="417" height="402" alt="Screenshot 2026-06-04 222441" src="https://github.com/user-attachments/assets/ef43ee17-7cec-45ad-8593-4bd26eaa12b8" />
+
+```
 SELECT CourseName, Credits FROM Courses WHERE Credits <> 2;
 ```
 
