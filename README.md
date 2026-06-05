@@ -44,6 +44,7 @@ SELECT * FROM Students;
 SELECT * FROM Courses;
 SELECT * FROM Enrollment;
 ```
+<img width="835" height="842" alt="Screenshot 2026-06-05 112159" src="https://github.com/user-attachments/assets/88ef7f9c-0c8c-4c30-8016-a8c5412dfa20" />
 
 
 ---
