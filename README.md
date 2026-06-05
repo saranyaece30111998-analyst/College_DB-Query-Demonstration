@@ -112,6 +112,7 @@ SELECT CourseName, Credits FROM Courses WHERE Credits <> 2;
 ```sql
 SELECT * FROM Students WHERE age > 20 AND status = 'Active';
 ```
+<img width="653" height="465" alt="Screenshot 2026-06-04 222537" src="https://github.com/user-attachments/assets/841f15c2-a8f2-4417-8b36-506f8aee7b41" />
 
 
 ---
