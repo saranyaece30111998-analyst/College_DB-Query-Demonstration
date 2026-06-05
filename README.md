@@ -103,6 +103,7 @@ SELECT CourseName, Credits FROM Courses WHERE Credits > 2;
 ```
 SELECT CourseName, Credits FROM Courses WHERE Credits <> 2;
 ```
+<img width="488" height="372" alt="Screenshot 2026-06-04 222511" src="https://github.com/user-attachments/assets/06f4778d-3f5d-46fb-8e02-54c3e81ae3e1" />
 
 
 ---
