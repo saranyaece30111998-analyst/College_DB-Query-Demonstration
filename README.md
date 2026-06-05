@@ -120,6 +120,10 @@ SELECT * FROM Students WHERE age > 20 AND status = 'Active';
 ### 8. NULL Handling
 ```sql
 SELECT * FROM Students WHERE status IS NULL;
+```
+<img width="576" height="302" alt="Screenshot 2026-06-04 222604" src="https://github.com/user-attachments/assets/50573e6c-ce41-4fb8-a265-0bbae80f9a50" />
+
+```
 SELECT * FROM Students WHERE status IS NOT NULL;
 ```
 
