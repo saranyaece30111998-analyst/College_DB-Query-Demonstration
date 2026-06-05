@@ -142,7 +142,6 @@ This project demonstrates:
 - Handling NULL values for data quality checks.     
 
  
-- `screenshots/like_operator.png`  
 - `screenshots/conclusion.png`
 
 ---
