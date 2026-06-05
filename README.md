@@ -78,7 +78,7 @@ SELECT * FROM Students WHERE age > 22;
 SELECT name, age, age + 5 AS age_after_5yrs FROM Students;
 SELECT Credits * 2 AS DoubledCredits, CourseName FROM Courses;
 ```
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+
 
 ---
 
