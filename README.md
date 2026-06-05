@@ -154,6 +154,7 @@ SELECT * FROM Students WHERE age BETWEEN 20 AND 24;
 ```
 SELECT * FROM Enrollment WHERE enrollmentdate BETWEEN '2024-01-15' AND '2024-02-29';
 ```
+1`  `<img width="777" height="498" alt="Screenshot 2026-06-04 222912" src="https://github.com/user-attachments/assets/fcb20a7e-1459-4d3f-922e-dbe1191f5cc4" />
 
 
 ---
