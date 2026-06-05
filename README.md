@@ -9,7 +9,6 @@ It covers:
 - Arithmetic operations on columns
 - Filtering with NULL checks and logical conditions
 
-👉 Goal: Showcase practical SQL skills for managing and analyzing student and course data.
 
 ---
 
