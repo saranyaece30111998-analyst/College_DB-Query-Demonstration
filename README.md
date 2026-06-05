@@ -121,7 +121,7 @@ SELECT * FROM Students WHERE city NOT IN ('Delhi');
 SELECT * FROM Students WHERE age BETWEEN 20 AND 24;
 SELECT * FROM Enrollment WHERE enrollmentdate BETWEEN '2024-01-15' AND '2024-02-29';
 ```
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+
 
 ---
 
