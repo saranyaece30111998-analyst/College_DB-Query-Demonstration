@@ -94,7 +94,7 @@ SELECT CourseName, Credits FROM Courses WHERE Credits <> 2;
 ```sql
 SELECT * FROM Students WHERE age > 20 AND status = 'Active';
 ```
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+
 
 ---
 
