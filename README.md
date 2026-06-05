@@ -140,8 +140,7 @@ This project demonstrates:
 - Use of operators (DISTINCT, ALIAS, WHERE, IN, BETWEEN, LIKE)
 - Arithmetic and comparison logic in queries
 - Handling NULL values for data quality checks.  
-  
-- `screenshots/basic_retrieval.png`  
+    
 - `screenshots/distinct_values.png`  
 - `screenshots/aliases.png`  
 - `screenshots/filtering.png`  
