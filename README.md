@@ -53,6 +53,7 @@ SELECT * FROM Enrollment;
 ```sql
 SELECT DISTINCT city FROM Students;
 ```
+<img width="430" height="415" alt="Screenshot 2026-06-04 221948" src="https://github.com/user-attachments/assets/d5022e3f-3c0e-43c1-8c8e-22acd2360253" />
 
 ---
 
