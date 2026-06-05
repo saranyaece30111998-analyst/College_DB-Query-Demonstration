@@ -169,6 +169,7 @@ SELECT * FROM Students WHERE name LIKE 'A%';
 SELECT * FROM Courses WHERE CourseName LIKE '%Analysis%';
 ```
 
+<img width="602" height="395" alt="Screenshot 2026-06-04 223008" src="https://github.com/user-attachments/assets/0719fa9c-e311-4113-917a-82fccf94276a" />
 
 ---
 
