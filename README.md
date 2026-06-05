@@ -148,6 +148,10 @@ SELECT * FROM Students WHERE city NOT IN ('Delhi');
 ### 10. BETWEEN
 ```sql
 SELECT * FROM Students WHERE age BETWEEN 20 AND 24;
+```
+<img width="716" height="538" alt="Screenshot 2026-06-04 222841" src="https://github.com/user-attachments/assets/e860912f-c535-42dc-a7ab-f12d8302c43d" />
+
+```
 SELECT * FROM Enrollment WHERE enrollmentdate BETWEEN '2024-01-15' AND '2024-02-29';
 ```
 
