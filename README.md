@@ -142,8 +142,7 @@ This project demonstrates:
 - Handling NULL values for data quality checks.  
   
   
-- `screenshots/comparison_operators.png`  
-- `screenshots/logical_conditions.png`  
+`screenshots/logical_conditions.png`  
 - `screenshots/null_handling.png`  
 - `screenshots/in_not_in.png`  
 - `screenshots/between.png`  
