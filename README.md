@@ -52,7 +52,6 @@ SELECT * FROM Enrollment;
 ```sql
 SELECT DISTINCT city FROM Students;
 ```
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
 
 ---
 
