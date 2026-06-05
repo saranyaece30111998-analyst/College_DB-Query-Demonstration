@@ -89,6 +89,7 @@ SELECT name, age, age + 5 AS age_after_5yrs FROM Students;
 ```
 SELECT Credits * 2 AS DoubledCredits, CourseName FROM Courses;
 ```
+<img width="500" height="430" alt="Screenshot 2026-06-04 222412" src="https://github.com/user-attachments/assets/51548768-d85e-4940-9dc5-1693a130b143" />
 
 
 ---
