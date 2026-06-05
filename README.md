@@ -140,15 +140,7 @@ This project demonstrates:
 - Use of operators (DISTINCT, ALIAS, WHERE, IN, BETWEEN, LIKE)
 - Arithmetic and comparison logic in queries
 - Handling NULL values for data quality checks
-
-
-
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
-
----
-
-## 📸 Screenshots
-All screenshots are stored in the `screenshots/` folder for easy reference.  
+ll screenshots are stored in the `screenshots/` folder for easy reference.  
 Example:  
 - `screenshots/basic_retrieval.png`  
 - `screenshots/distinct_values.png`  
