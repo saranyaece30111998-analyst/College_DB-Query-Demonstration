@@ -162,6 +162,10 @@ SELECT * FROM Enrollment WHERE enrollmentdate BETWEEN '2024-01-15' AND '2024-02-
 ### 11. LIKE Operator
 ```sql
 SELECT * FROM Students WHERE name LIKE 'A%';
+```
+<img width="610" height="382" alt="Screenshot 2026-06-04 222940" src="https://github.com/user-attachments/assets/55220e1f-85d8-495f-966e-76d5d25419f6" />
+
+```
 SELECT * FROM Courses WHERE CourseName LIKE '%Analysis%';
 ```
 
