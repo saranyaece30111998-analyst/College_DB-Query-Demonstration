@@ -103,7 +103,7 @@ SELECT * FROM Students WHERE age > 20 AND status = 'Active';
 SELECT * FROM Students WHERE status IS NULL;
 SELECT * FROM Students WHERE status IS NOT NULL;
 ```
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+
 
 ---
 
