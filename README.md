@@ -69,6 +69,10 @@ SELECT name AS student_name, age, city AS location FROM Students;
 ### 4. Filtering
 ```sql
 SELECT * FROM Students WHERE city = 'Chennai';
+```
+<img width="638" height="307" alt="Screenshot 2026-06-04 222202" src="https://github.com/user-attachments/assets/17ba6b70-d08c-47ce-b5f8-f68d28f6991f" />
+
+```
 SELECT * FROM Students WHERE age > 22;
 ```
 
