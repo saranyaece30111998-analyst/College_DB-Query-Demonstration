@@ -87,7 +87,7 @@ SELECT Credits * 2 AS DoubledCredits, CourseName FROM Courses;
 SELECT CourseName, Credits FROM Courses WHERE Credits > 2;
 SELECT CourseName, Credits FROM Courses WHERE Credits <> 2;
 ```
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+
 
 ---
 
