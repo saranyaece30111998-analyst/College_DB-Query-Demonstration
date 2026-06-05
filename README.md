@@ -134,8 +134,12 @@ SELECT * FROM Students WHERE status IS NOT NULL;
 ### 9. IN / NOT IN
 ```sql
 SELECT * FROM Students WHERE city IN ('Delhi', 'Chennai');
+```
+
+```
 SELECT * FROM Students WHERE city NOT IN ('Delhi');
 ```
+<img width="725" height="527" alt="Screenshot 2026-06-04 222716" src="https://github.com/user-attachments/assets/927ab8eb-03c4-4a59-ba41-0a9e57ad4a58" />
 
 
 ---
