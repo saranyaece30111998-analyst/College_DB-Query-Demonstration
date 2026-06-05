@@ -130,7 +130,7 @@ SELECT * FROM Enrollment WHERE enrollmentdate BETWEEN '2024-01-15' AND '2024-02-
 SELECT * FROM Students WHERE name LIKE 'A%';
 SELECT * FROM Courses WHERE CourseName LIKE '%Analysis%';
 ```
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+
 
 ---
 
