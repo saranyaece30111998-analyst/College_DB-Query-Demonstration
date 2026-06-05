@@ -141,7 +141,7 @@ This project demonstrates:
 - Arithmetic and comparison logic in queries
 - Handling NULL values for data quality checks
 
-👉 It highlights **practical SQL skills** for managing student and course information in a relational database.
+
 
 `[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
 
