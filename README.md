@@ -141,7 +141,7 @@ This project demonstrates:
 - Arithmetic and comparison logic in queries
 - Handling NULL values for data quality checks.  
     
-- `screenshots/distinct_values.png`  
+ 
 - `screenshots/aliases.png`  
 - `screenshots/filtering.png`  
 - `screenshots/arithmetic_operations.png`  
