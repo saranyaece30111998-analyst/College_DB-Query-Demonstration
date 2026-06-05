@@ -75,6 +75,7 @@ SELECT * FROM Students WHERE city = 'Chennai';
 ```
 SELECT * FROM Students WHERE age > 22;
 ```
+<img width="676" height="346" alt="Screenshot 2026-06-04 222246" src="https://github.com/user-attachments/assets/e36f0a8a-adb4-49b9-a5d7-1b4cfa854cdc" />
 
 
 ---
