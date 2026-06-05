@@ -139,11 +139,7 @@ This project demonstrates:
 - Core SQL operations for data retrieval and filtering
 - Use of operators (DISTINCT, ALIAS, WHERE, IN, BETWEEN, LIKE)
 - Arithmetic and comparison logic in queries
-- Handling NULL values for data quality checks.  
-  
-  
-  
-- `screenshots/null_handling.png`  
+- Handling NULL values for data quality checks.     
 - `screenshots/in_not_in.png`  
 - `screenshots/between.png`  
 - `screenshots/like_operator.png`  
