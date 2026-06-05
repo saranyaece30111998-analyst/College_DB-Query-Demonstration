@@ -83,6 +83,10 @@ SELECT * FROM Students WHERE age > 22;
 ### 5. Arithmetic Operations
 ```sql
 SELECT name, age, age + 5 AS age_after_5yrs FROM Students;
+```
+<img width="546" height="555" alt="Screenshot 2026-06-04 222336" src="https://github.com/user-attachments/assets/07ac2b20-1604-4a78-a3be-5589d26d2104" />
+
+```
 SELECT Credits * 2 AS DoubledCredits, CourseName FROM Courses;
 ```
 
