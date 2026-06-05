@@ -61,6 +61,7 @@ SELECT DISTINCT city FROM Students;
 ```sql
 SELECT name AS student_name, age, city AS location FROM Students;
 ```
+<img width="533" height="427" alt="Screenshot 2026-06-04 222026" src="https://github.com/user-attachments/assets/f1d81f86-046d-4782-8b0c-e5869456fb98" />
 
 
 ---
