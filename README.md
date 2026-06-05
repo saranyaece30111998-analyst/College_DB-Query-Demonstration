@@ -112,7 +112,7 @@ SELECT * FROM Students WHERE status IS NOT NULL;
 SELECT * FROM Students WHERE city IN ('Delhi', 'Chennai');
 SELECT * FROM Students WHERE city NOT IN ('Delhi');
 ```
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+
 
 ---
 
